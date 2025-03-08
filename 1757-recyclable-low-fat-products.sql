@@ -1,7 +1,3 @@
-SELECT product_id
-FROM Products
-WHERE low_fats = 'Y' AND recyclable = 'Y';
-
 /*
 1757. Recyclable and Low Fat Products
 Solved
@@ -30,7 +26,6 @@ Return the result table in any order.
 
 The result format is in the following example.
 
- 
 
 Example 1:
 
@@ -54,3 +49,7 @@ Output:
 +-------------+
 Explanation: Only products 1 and 3 are both low fat and recyclable.
 */
+
+SELECT product_id
+FROM Products
+WHERE low_fats = 'Y' AND recyclable = 'Y';
