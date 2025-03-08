@@ -1,4 +1,4 @@
-# LeetCode SQL 50 - Crack SQL Interview in 50 Qs
+# LeetCode - SQL 50
 
 ## Contents
 
