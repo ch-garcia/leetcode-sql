@@ -72,6 +72,7 @@ The unique ID of Winston is 3.
 The unique ID of Jonathan is 1.
 */
 
+-- Write your PostgreSQL query statement below
 SELECT unique_id, name
 FROM Employees
 LEFT JOIN EmployeeUNI
