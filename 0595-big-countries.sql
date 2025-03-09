@@ -19,7 +19,6 @@ Table: World
 +-------------+---------+
 name is the primary key (column with unique values) for this table.
 Each row of this table gives information about the name of a country, the continent to which it belongs, its area, the population, and its GDP value.
- 
 
 A country is big if:
 
@@ -30,8 +29,6 @@ Write a solution to find the name, population, and area of the big countries.
 Return the result table in any order.
 
 The result format is in the following example.
-
- 
 
 Example 1:
 
